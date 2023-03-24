@@ -1,0 +1,2 @@
+# PythonStudy
+Basic python study!
